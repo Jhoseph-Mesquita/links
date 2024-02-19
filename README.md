@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://jhoseph-mesquita.github.io/dev-links/)
+- [Acesse o projeto finalizado, online](https://jhoseph-mesquita.github.io/links-dev/)
 
 ## :memo: Licença
 
